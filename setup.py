@@ -8,7 +8,7 @@ with open('README.rst') as f:
 
 setup(
     name='release-script-test',
-    version='0.15.0-dev',
+    version='0.15.0',
     packages=find_packages(),
     namespace_packages=['dhh'],
     description=u'for testing release-script',
